@@ -1,0 +1,65 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Raleway:wght@200&family=Roboto+Mono:ital@1&display=swap');
+
+
+.section-wrapper  {
+    border: 3px dashed #40120f;
+    border-radius: 15px;
+    padding: 20px;
+    
+}
+
+.third-h1 {
+    color: #782a25;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.forth-h1 {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 35px;
+    color: #d18181;
+    text-shadow: 2px 1px 3px black;
+}
+h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+    text-shadow: 2px 1px black;
+}
+ .first-h2 {
+    text-shadow: 2px 2px #d18181
+ }
+ #second-h2 {
+    text-shadow: 2px 2px #d18181
+ }
+ 
+.section-box  {
+    padding-top: 10px;
+    padding-bottom: 100px;
+}
+
+.section-list-box-1 {
+    width: 50%;
+    background-color: burlywood;
+    padding: 2px 10px 2px 25px;
+}
+.section-list-box-2 {
+    margin-top: -70px;
+    float: right;
+    width: 50%;
+    background-color:cadetblue;
+    padding-left: 30px;
+    
+}
+.ordered-list {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+
+.first-p {
+    color:#91605d;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+
+}
